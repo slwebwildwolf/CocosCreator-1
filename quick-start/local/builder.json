@@ -1,0 +1,15 @@
+{
+  "androidStudio": false,
+  "buildPath": "F:\\github\\CocosCreator.git\\trunk\\quick-start\\build",
+  "debug": true,
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "keystorePassword": "",
+  "keystorePath": "",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "sourceMaps": true,
+  "template": "default",
+  "useDebugKeystore": true
+}

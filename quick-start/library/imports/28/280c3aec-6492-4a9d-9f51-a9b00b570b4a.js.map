@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;AACR,aAAK,EAAE;AACH,uBAAS,IAAI;AACb,gBAAI,EAAE,EAAE,CAAC,KAAK;SACjB;AACD,mBAAW,EAAE;AACT,uBAAS,IAAI;AACb,gBAAI,EAAE,EAAE,CAAC,MAAM;SAClB;AACD,sBAAc,EAAE;AACZ,uBAAS,IAAI;AACb,gBAAI,EAAE,EAAE,CAAC,MAAM;SAClB;AACD,YAAI,EAAE,eAAe;KACxB;;;AAGD,UAAM,EAAE,kBAAY;AAChB,YAAI,CAAC,KAAK,CAAC,MAAM,GAAG,IAAI,CAAC,IAAI,CAAC;;AAE9B,YAAI,CAAC,IAAI,CAAC,EAAE,CAAC,WAAW,EAAE,UAAS,KAAK,EACxC;AACG,mBAAO,CAAC,GAAG,CAAC,sBAAsB,CAAC,CAAA;SACrC,CAAC,CAAC;;AAEH,YAAI,CAAC,cAAc,CAAC,IAAI,CAAC,EAAE,CAAC,WAAW,EAAE,UAAS,KAAK,EACvD;AACG,mBAAO,CAAC,GAAG,CAAC,0BAA0B,CAAC,CAAA;SACzC,CAAC,CAAC;KACN;;;AAGD,UAAM,EAAE,gBAAU,EAAE,EAAE,EACrB;AACD,cAAU,EAAE,sBAAY;AACxB,eAAO,CAAC,GAAG,CAAC,QAAQ,GAAG,WAAW,CAAC,CAAC;KACnC;AACD,yBAAqB,EAAE,iCAAW;;AAE9B,eAAO,CAAC,GAAG,CAAC,kBAAkB,CAAC,CAAC;AAChC,UAAE,CAAC,QAAQ,CAAC,SAAS,CAAC,MAAM,EAAE,IAAI,CAAC,UAAU,CAAC,CAAC;;KAElD;CACJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\n    extends: cc.Component,\n\n    properties: {\n        label: {\n            default: null,\n            type: cc.Label\n        },\n        startbutton: {\n            default: null,\n            type: cc.Button\n        },\n        startbuttonnew: {\n            default: null,\n            type: cc.Button\n        },\n        text: 'Hello, World!'\n    },\n\n    // use this for initialization\n    onLoad: function () {\n        this.label.string = this.text;\n        \n        this.node.on('mousedown', function(event)\n        {\n           console.log('main scene mousedown') \n        });\n        \n        this.startbuttonnew.node.on('mousedown', function(event)\n        {\n           console.log('startbuttonnew mousedown') \n        });\n    },\n\n    // called every frame\n    update: function (dt) {\n    },\n    onLaunched :function () {\n    console.log('Scene ' + ' launched');\n    },\n    on_start_button_click: function() {\n        // 切换到另外一个场景。\n        console.log(\"start game scene\");\n        cc.director.loadScene(\"game\", this.onLaunched);\n        // end \n    }\n});\n"
+  ]
+}
