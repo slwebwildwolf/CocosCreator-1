@@ -17,7 +17,7 @@
                   "hierarchy"
                 ],
                 "type": "panel",
-                "width": 281
+                "width": 348
               },
               {
                 "active": 0,
@@ -26,13 +26,13 @@
                   "assets"
                 ],
                 "type": "panel",
-                "width": 281
+                "width": 348
               }
             ],
             "height": 972,
             "row": false,
             "type": "dock",
-            "width": 281
+            "width": 348
           },
           {
             "docks": [
@@ -45,7 +45,7 @@
                       "scene"
                     ],
                     "type": "panel",
-                    "width": 532
+                    "width": 763
                   },
                   {
                     "active": 0,
@@ -54,13 +54,13 @@
                       "node-library"
                     ],
                     "type": "panel",
-                    "width": 213
+                    "width": 343
                   }
                 ],
                 "height": 707,
                 "row": true,
                 "type": "dock",
-                "width": 748
+                "width": 1109
               },
               {
                 "active": 0,
@@ -70,13 +70,13 @@
                   "timeline"
                 ],
                 "type": "panel",
-                "width": 748
+                "width": 1109
               }
             ],
             "height": 972,
             "row": false,
             "type": "dock",
-            "width": 748
+            "width": 1109
           },
           {
             "active": 0,
@@ -85,11 +85,33 @@
               "inspector"
             ],
             "type": "panel",
-            "width": 879
+            "width": 451
           }
         ],
         "no-collapse": true,
         "row": true,
+        "type": "dock"
+      }
+    },
+    "window-1471752819711": {
+      "x": 399,
+      "y": 28,
+      "width": 568,
+      "height": 617,
+      "layout": {
+        "docks": [
+          {
+            "active": 0,
+            "height": 590,
+            "panels": [
+              "project-settings"
+            ],
+            "type": "panel",
+            "width": 560
+          }
+        ],
+        "no-collapse": true,
+        "row": false,
         "type": "dock"
       }
     }

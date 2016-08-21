@@ -1,49 +1,46 @@
-2016-08-20T10:44:15.993Z - normal: Load ~/.CocosCreator/settings.json
-2016-08-20T10:44:16.002Z - normal: checking language setting...
-2016-08-20T10:44:16.003Z - normal: Language: zh
-2016-08-20T10:44:17.153Z - success: protocol editor-framework registered
-2016-08-20T10:44:17.154Z - success: protocol app registered
-2016-08-20T10:44:17.154Z - success: protocol packages registered
-2016-08-20T10:44:17.154Z - success: protocol theme registered
-2016-08-20T10:44:17.154Z - success: protocol unpack registerred
-2016-08-20T10:44:17.476Z - normal: connected!
-2016-08-20T10:44:17.485Z - normal: Check project F:\github\CocosCreator.git\trunk\quick-start
-2016-08-20T10:44:17.492Z - normal: Initializing Cocos Creator Editor
-2016-08-20T10:44:19.059Z - normal: Initializing Cocos2d
-2016-08-20T10:44:19.284Z - normal: Initializing Asset Database
-2016-08-20T10:44:19.350Z - success: protocol uuid registerred
-2016-08-20T10:44:19.351Z - success: protocol db registerred
-2016-08-20T10:44:19.352Z - success: protocol thumbnail registerred
-2016-08-20T10:44:19.353Z - normal: Loading editor/builtin packages
-2016-08-20T10:44:21.046Z - success: assets loaded
-2016-08-20T10:44:21.060Z - success: builder loaded
-2016-08-20T10:44:21.087Z - success: hierarchy loaded
-2016-08-20T10:44:21.093Z - success: inspector loaded
-2016-08-20T10:44:21.096Z - success: keystore loaded
-2016-08-20T10:44:21.101Z - success: node-library loaded
-2016-08-20T10:44:22.048Z - success: preferences loaded
-2016-08-20T10:44:22.285Z - success: project-importer loaded
-2016-08-20T10:44:22.288Z - success: project-settings loaded
-2016-08-20T10:44:22.312Z - success: ui-kit loaded
-2016-08-20T10:44:22.316Z - success: ui-grid loaded
-2016-08-20T10:44:22.324Z - success: scene loaded
-2016-08-20T10:44:22.327Z - success: sprite-editor loaded
-2016-08-20T10:44:22.335Z - success: timeline loaded
-2016-08-20T10:44:22.336Z - normal: Loading builtin packages
-2016-08-20T10:44:22.342Z - success: asset-db-debugger loaded
-2016-08-20T10:44:22.345Z - success: code-editor loaded
-2016-08-20T10:44:22.346Z - success: color-picker loaded
-2016-08-20T10:44:22.352Z - success: console loaded
-2016-08-20T10:44:22.356Z - success: package-manager loaded
-2016-08-20T10:44:22.361Z - success: tester loaded
-2016-08-20T10:44:22.365Z - success: ui-kit-preview-extra loaded
-2016-08-20T10:44:22.368Z - success: ui-kit-preview loaded
-2016-08-20T10:44:22.380Z - success: ui-tree loaded
-2016-08-20T10:44:22.429Z - normal: Initializing project F:\github\CocosCreator.git\trunk\quick-start
-2016-08-20T10:44:22.433Z - normal: Loading packages
-2016-08-20T10:44:22.439Z - normal: Run Application
-2016-08-20T10:44:24.456Z - success: preview server running at http://localhost:7456
-2016-08-20T10:44:31.648Z - normal: 1.2.0
-2016-08-20T10:46:34.720Z - normal: Compiled successfully
-2016-08-20T10:46:37.407Z - normal: 1.2.0
-2016-08-20T10:46:38.092Z - normal: Built to "F:\github\CocosCreator.git\trunk\quick-start\build" successfully
+2016-08-21T04:05:17.699Z - normal: Load ~/.CocosCreator/settings.json
+2016-08-21T04:05:17.710Z - normal: checking language setting...
+2016-08-21T04:05:17.711Z - normal: Language: zh
+2016-08-21T04:05:18.866Z - success: protocol editor-framework registered
+2016-08-21T04:05:18.866Z - success: protocol app registered
+2016-08-21T04:05:18.867Z - success: protocol packages registered
+2016-08-21T04:05:18.867Z - success: protocol theme registered
+2016-08-21T04:05:18.867Z - success: protocol unpack registerred
+2016-08-21T04:05:19.129Z - normal: connected!
+2016-08-21T04:05:19.138Z - normal: Check project F:\github\CocosCreator.git\trunk\quick-start
+2016-08-21T04:05:19.144Z - normal: Initializing Cocos Creator Editor
+2016-08-21T04:05:19.576Z - normal: Initializing Cocos2d
+2016-08-21T04:05:19.804Z - normal: Initializing Asset Database
+2016-08-21T04:05:19.898Z - success: protocol uuid registerred
+2016-08-21T04:05:19.899Z - success: protocol db registerred
+2016-08-21T04:05:19.899Z - success: protocol thumbnail registerred
+2016-08-21T04:05:19.900Z - normal: Loading editor/builtin packages
+2016-08-21T04:05:20.106Z - success: assets loaded
+2016-08-21T04:05:20.110Z - success: builder loaded
+2016-08-21T04:05:20.115Z - success: hierarchy loaded
+2016-08-21T04:05:20.119Z - success: inspector loaded
+2016-08-21T04:05:20.121Z - success: keystore loaded
+2016-08-21T04:05:20.125Z - success: node-library loaded
+2016-08-21T04:05:20.128Z - success: preferences loaded
+2016-08-21T04:05:20.155Z - success: project-importer loaded
+2016-08-21T04:05:20.158Z - success: project-settings loaded
+2016-08-21T04:05:20.162Z - success: ui-kit loaded
+2016-08-21T04:05:20.165Z - success: ui-grid loaded
+2016-08-21T04:05:20.170Z - success: scene loaded
+2016-08-21T04:05:20.173Z - success: sprite-editor loaded
+2016-08-21T04:05:20.179Z - success: timeline loaded
+2016-08-21T04:05:20.179Z - normal: Loading builtin packages
+2016-08-21T04:05:20.184Z - success: asset-db-debugger loaded
+2016-08-21T04:05:20.186Z - success: code-editor loaded
+2016-08-21T04:05:20.188Z - success: color-picker loaded
+2016-08-21T04:05:20.191Z - success: console loaded
+2016-08-21T04:05:20.193Z - success: package-manager loaded
+2016-08-21T04:05:20.197Z - success: tester loaded
+2016-08-21T04:05:20.200Z - success: ui-kit-preview-extra loaded
+2016-08-21T04:05:20.203Z - success: ui-kit-preview loaded
+2016-08-21T04:05:20.205Z - success: ui-tree loaded
+2016-08-21T04:05:20.251Z - normal: Initializing project F:\github\CocosCreator.git\trunk\quick-start
+2016-08-21T04:05:20.255Z - normal: Loading packages
+2016-08-21T04:05:20.262Z - normal: Run Application
+2016-08-21T04:05:21.061Z - success: preview server running at http://localhost:7456
+2016-08-21T04:05:28.424Z - normal: 1.2.0
